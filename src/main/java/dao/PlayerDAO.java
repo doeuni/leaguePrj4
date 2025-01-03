@@ -60,7 +60,7 @@ public class PlayerDAO {
             Connection con=ds.getConnection();
             PreparedStatement stmt = con.prepareStatement("insert into tb_player(playerId, password, role, name, address, city, province, postalCode) values(?,?,?,?,?,?,?,?)");
             stmt.setString(1,"12");
-            stmt.setString(2,"1332");
+            stmt.setString(2,"13");
             stmt.setString(3,"coo");
             stmt.setString(4,lVO.getName());
             stmt.setString(5,lVO.getAddress());
