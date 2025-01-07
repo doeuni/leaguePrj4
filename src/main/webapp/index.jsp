@@ -19,7 +19,7 @@ This is the Home page for Duke's Soccer League.
 <h3>Players</h3>
 <ul>
   <li><a href='leagueProcessing?choice=list-leagues'>List all leagues</a></li>
-  <li><a href='league/registerLeagueForm.jsp'>Register for a league</a></li>
+  <li><a href='league/registerLeagueFor3m.jsp'>Register for a league</a></li>
 </ul>
 
 <h3>League Administrator</h3>
